@@ -1,10 +1,6 @@
 # Video_Games_Sales
 Analyzed video game sales data using ML models - KNN, Decision Trees, Random Forest, SVM, XGBoost to predict global sales with up to 82% accuracy.
 
-
-<h1>🔒 🗻 📊🎯🔬 Vedant Mandre</h1>
-<br /> 
-
                     
 #🎮 Video Games Sales 📊
 
